@@ -7,9 +7,10 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-23272F?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-23272F?style=for-the-badge&logo=python&logoColor=orange" />
   <img src="https://img.shields.io/badge/React-23272F?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-23272F?style=for-the-badge&logo=ethereum&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Web3-23272F?style=for-the-badge&logo=ethereum&logoColor=blue" />
 </div>
 
 ---
