@@ -17,11 +17,10 @@
 
 ## 🚀 Projects
 
-- **Hyperliquid Trade Automation**  
-  Automated Hyperliquid trading using ngrok + TradingView.
-- **Telegram Real-Time Dashboard**  
-  Crypto market dashboard for Telegram groups with bot integration.
-
+- **AlphaPort.trade**  
+  A quick platfrom for users where they can deploy algortithmic strategies or trading bots and gets fees collected by subscribers.
+- **AlphaAgentX.com**  
+  AI driven algo trading Platform.
 ---
 
 ## 🧑‍💻 Skills
